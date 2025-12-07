@@ -1,0 +1,7 @@
+{
+  "name": "时之雨：掌控时间",
+  "description": "通过摄像头用手势控制雨滴。手向上移动让时光倒流，向下移动加速下落，体验《惊天魔盗团》般的魔术效果。由 MediaPipe 手势追踪和 Gemini 魔法旁白驱动。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
